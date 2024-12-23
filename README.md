@@ -27,6 +27,10 @@ The example of Cropped photo(legal area) is shown below:
 
 ![Cropped photo](cropped_region.jpg)
 
+After detection, it will pick the highest score for the input command:
+
+![Highest_score photo](Highest_score_Object.jpg)
+
 
 Technology Stack
 Programming Language: Python
