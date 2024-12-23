@@ -29,7 +29,7 @@ The example of Cropped photo(legal area) is shown below:
 
 After detection, it will pick the highest score for the input command:
 
-![Highest_score photo](Highest_score_Object.jpg)
+![Highest_score photo](Best_Match_Object.jpg)
 
 
 Technology Stack
