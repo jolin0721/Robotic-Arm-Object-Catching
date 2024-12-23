@@ -19,6 +19,10 @@ A robotic arm identifies, grasps, and places objects into pre-designated bins ba
 Integration Workflow:
 Speech command/Text Command → Object detection → Object classification → Robotic arm action.
 
+The original photo is like below:
+![Original photo](original_photo.png)
+
+
 Technology Stack
 Programming Language: Python
 
