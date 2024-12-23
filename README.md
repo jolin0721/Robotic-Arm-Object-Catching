@@ -19,8 +19,13 @@ A robotic arm identifies, grasps, and places objects into pre-designated bins ba
 Integration Workflow:
 Speech command/Text Command → Object detection → Object classification → Robotic arm action.
 
-The original photo is like below:
+The example of original photo is shown below:
+
 ![Original photo](original_photo.jpg)
+
+The example of Cropped photo(legal area) is shown below:
+
+![Cropped photo](cropped_region.jpg)
 
 
 Technology Stack
