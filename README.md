@@ -19,6 +19,8 @@ A robotic arm identifies, grasps, and places objects into pre-designated bins ba
 Integration Workflow:
 Speech command/Text Command → Object detection → Object classification → Robotic arm action.
 
+The Command could be: **"I want a furry animal, put it into red bin"**
+
 The example of original photo is shown below:
 
 ![Original photo](original_photo.jpg)
